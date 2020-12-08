@@ -1,6 +1,6 @@
 # hello-world
 Test repo
 
-# Fiqrst item
+# First item
 
 # Second item
